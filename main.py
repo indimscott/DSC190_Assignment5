@@ -1,10 +1,7 @@
-import os
-import sys
+
 
 def main():
-    x = 10
-    print("Hello World")
-    return undefined_variable
+	print("Hello World")
 
 if __name__ == "__main__":
-    main()
+	main()
